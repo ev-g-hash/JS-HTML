@@ -1,0 +1,18 @@
+body {    
+  background-image: url('https://cdn.culture.ru/images/6454c90f-6744-5abd-9bbc-2321ef4dc17f');       
+  background-size: 1440px;
+  background-attachment: fixed;
+   h1 {  
+    padding: 10px 15px 15px;  
+    margin: 5px 0 20px 10px;  
+    color: #fff;  
+    font-size: 60px;
+    }
+  p {  
+    padding: 10px 10px;  
+    margin: 3% 50% 0 3%;  
+    background-color: #fefefe;  
+    color: #111111;  
+    font-size: 20px;
+    }
+     }
